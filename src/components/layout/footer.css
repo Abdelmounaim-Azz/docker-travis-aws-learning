@@ -1,0 +1,8 @@
+:root {
+  --mainSpacing: 0.25rem;
+}
+
+.copyright {
+  text-transform: capitalize;
+  letter-spacing: var(--mainSpacing);
+}
